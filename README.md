@@ -4,7 +4,7 @@
 
 <p>This replaces the display of new tabs with a personal dashboard featuring weather, a to-do list and inspiration.</p>
 
-<p>You can look at the original [here](https://momentumdash.com/)</p>
+You can look at the original [here](https://momentumdash.com/)
 
 ## Live demo
 
