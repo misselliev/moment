@@ -8,7 +8,7 @@ You can look at the original [here](https://momentumdash.com/)
 
 ## Live demo
 
-You can visit this project live [here](https://stiakov.github.io/The-Next-Web-Responsive-Design/). //to be updated
+You can visit this project live [here](https://raw.githack.com/misselliev/moment/master/index.html)
 
 ## About
 
