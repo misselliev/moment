@@ -2,6 +2,7 @@ html, body{
   height:100%;
 }
 body{
+  color:#fff;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
@@ -16,7 +17,15 @@ body{
   justify-content: center;
   align-items: center;
 }
-h1{
-  color:#fff;
-  font-size:100px;
+.white{
+  font-size:90px;
+}
+
+.date{
+  text-align: right;
+}
+
+.time{
+  text-align: center;
+  font-size: 100px;
 }
